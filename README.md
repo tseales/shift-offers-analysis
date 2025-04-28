@@ -1,7 +1,9 @@
 ## Project Overview
 The purpose of this analysis was to identify signals in the data which are reflective upon a two-sided marketplace with strong network effects, where workers transact with workplaces to book per diem shifts in the future. The intent being to provide stakeholders with initial insights, recommending directions for further inquiry, with a particular analytical focus on worker and workplace behavior within the product. Conducting an analysis on 266k+ records for 07/2024 &ndash; 01/2025, the insights found and detailed can be found in the following summary. 
 
-*Note:* A PDF copy of the Jupyter Notebook used for EDA can be found [here](https://github.com/tseales/shift-offers-analysis/blob/c35412ab879728e5bad8087706bdc78931c27487/artifacts/shift-offers-notebook.pdf). An ipynb file can be found [here](https://github.com/tseales/shift-offers-analysis/blob/b4658fdecf125e12987e9a53695de9e233f6120f/artifacts/shift-offers-analysis.ipynb) - *images included in its "Summary of Insights" are from local files and will not appear*. This README and aforementioned PDF will reflect all intended charts.
+*Note 1:* A PDF copy of the Jupyter Notebook used for EDA can be found [here](https://github.com/tseales/shift-offers-analysis/blob/c35412ab879728e5bad8087706bdc78931c27487/artifacts/shift-offers-notebook.pdf). An ipynb file can be found [here](https://github.com/tseales/shift-offers-analysis/blob/b4658fdecf125e12987e9a53695de9e233f6120f/artifacts/shift-offers-analysis.ipynb) - *images included in its "Summary of Insights" are from local files and will not appear*. This README and aforementioned PDF will reflect all intended charts. 
+
+*Note 2:* While the Jupyter Notebook will reflect code to directly import data hosted in Google Drive, an excel copy of the raw data pulled in 03/2025 can be found [here](https://github.com/tseales/shift-offers-analysis/blob/096c24b0dd67d17f76bae24b5a69287c3a53cc4c/artifacts/shift-offers_raw_03-10-2025.xlsx). 
 
 ## Summary of Insights
 
